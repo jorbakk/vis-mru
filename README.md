@@ -1,6 +1,6 @@
 # Menu for most recently used files in vis
 
-Use vis-menu to open most recently used files in [vis](https://github.com/martanne/vis).
+Use vis-menu to open most recently used files in [vis](https://github.com/martanne/vis). Superseded by [vis-filepal](https://github.com/jorbakk/vis-filepal).
 
 ## Usage
 
